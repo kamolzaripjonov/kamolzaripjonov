@@ -1,5 +1,5 @@
 ### 👋 Men haqimda
 
-- Mening ismim Sayfullo To‘xtayev
+- Mening ismim Kamol Zaripjonov
 - Men Java dasturlash tili bo‘yicha ishlayman
 - Undan tashqari JavaScript, C++, TypeScript, Python kabi tillarni bilaman
