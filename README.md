@@ -38,7 +38,4 @@
   <a href="mailto:kamolzaripjonov777@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail"/>
   </a>
-  <a href="tel:+998901234567">
-    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="phone"/>
-  </a>
 </p>
