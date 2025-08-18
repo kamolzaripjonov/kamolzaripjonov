@@ -23,7 +23,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔹 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -40,8 +40,8 @@
 
 ## 📫 Bog‘lanish uchun
 
-- 📧 Email: **kamolzaripjonov01@gmail.com**  
-- 💬 Telegram: [@kamol_zaripjonov](https://t.me/kamolzaripjonov)  
+- 📧 Email: **kamolzarifjonov777@gmail.com**  
+- 💬 Telegram: [@kamolzaripjonov](https://t.me/kamolzaripjonov)  
 - 🌐 Portfolio: *tez orada...*
 
 ---
