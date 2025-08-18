@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamol Zaripjonov</h1>
-<h3 align="center">Java Backend Developer | Full Stack Enthusiast</h3>
+<h3 align="center">Java Backend Developer | Full Stack Java Enthusiast</h3>
 
 ---
 
