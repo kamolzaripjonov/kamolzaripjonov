@@ -37,8 +37,8 @@
 <div align="center">
     <h1 >The frenworks I've worked on and my git status</h1>
     
-[![muhammadali-amor's github stats](https://github-readme-stats.vercel.app/api?username=muhammadali-amor&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/muhammadali-amor/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-amor&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/muhammadali-amor/)
+[![muhammadali-amor's github stats](https://github-readme-stats.vercel.app/api?username=kamolzaripjonov&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/kamolzaripjonov/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamolzaripjonov&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/kamolzaripjonov/)
 
 </div>
 <br/>
