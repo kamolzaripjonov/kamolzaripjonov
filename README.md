@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres" /><br/>
+  <img src="https://skillicons.dev/icons?i=c++,python,java,spring,hibernate,maven,postgres" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman" />
 </p>
