@@ -6,16 +6,15 @@
 ### 🚀 About Me
 - 🔭 I’m currently working as **Project Manager at Need Code Company**
 - 🌱 I’m learning **Full Stack Development (Java + React/Vite)**
-- 👨‍🏫 Previously taught programming at **Revolution IT Academy (2023-2024)**
 - 💬 Ask me about **Java, Spring Boot, React, Databases**
-- 📫 Reach me at **kamolzaripjonov01@gmail.com**
+- 📫 Reach me at **kamolzaripjonov777@gmail.com**
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,redis" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman" />
 </p>
