@@ -33,6 +33,6 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://t.me/kamolzaripjonov"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="mailto:kamolzarifjonov777@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/kamolzaripjonov"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="mailto:kamolzaripjonov777@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="tel:+998901234567"><img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png"/></a>
 </p>
