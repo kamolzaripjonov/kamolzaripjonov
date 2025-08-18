@@ -15,9 +15,9 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,postgres,mysql,redis" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,redis" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman" />
 </p>
 
 ---
@@ -34,6 +34,5 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://t.me/kamolzaripjonov"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="https://linkedin.com/in/kamolzaripjonov"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:kamolzaripjonov01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:kamolzarifjonov777@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
