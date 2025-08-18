@@ -1,37 +1,66 @@
-<h1 align="center">Hi 👋, I'm Kamol Zaripjonov</h1>
-<h3 align="center">Java Backend Developer | Full Stack Enthusiast</h3>
+<!-- <h1 align="center"> -->
+<!--      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammadali!;" />  -->
+<!-- </h1> -->
 
----
+![Welcome!](./iyu.gif)
 
-### 🚀 About Me
-- 🔭 I’m currently working as **Project Manager at Need Code Company**
-- 🌱 I’m learning **Full Stack Development (Java + React/Vite)**
-- 💬 Ask me about **Java, Spring Boot, React, Databases**
-- 📫 Reach me at **kamolzaripjonov777@gmail.com**
+<h3 align="center">Full-stack Developer</h3>
 
----
+<br/>
 
-### 🛠 Tech Stack
+<div align="center">
+ 
+ 🔭 I am currently working on several projects.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,python,java,spring,hibernate,maven,postgres" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman" />
-</p>
+ ⚡️ I am in touch with any projects or suggestions
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:muhaab1221@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadali-amor" target="_blank">
+  </a>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,postgres,kali,javascript,github,react,vite,bootstrap,html,css,vscode" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=" /> -->
+</div>
 
-### 📊 GitHub Stats
+<hr/>
+<div align="center">
+    <h1 >The frenworks I've worked on and my git status</h1>
+    
+[![muhammadali-amor's github stats](https://github-readme-stats.vercel.app/api?username=muhammadali-amor&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/muhammadali-amor/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-amor&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/muhammadali-amor/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamolzaripjonov&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamolzaripjonov&layout=compact&theme=tokyonight" height="180px"/>
-</p>
+</div>
+<br/>
+<!-- <hr/> -->
 
----
+<!--  <div align="center"> -->
+<!--   <h2>🐍 My Contributions 🐍</h2> -->
+<!--   <br> -->
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+  
+ <!--   <br/><br/><br/> -->
+<!--  </div> -->  
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://t.me/kamolzaripjonov"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="mailto:kamolzarifjonov777@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+
+
+<!--  <hr/> -->
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Gmail!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
