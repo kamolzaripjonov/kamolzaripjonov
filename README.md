@@ -24,7 +24,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamolzaripjonov&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamolzaripjonov&layout=compact&theme=tokyonight&exclude_repo=some-repo-name"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamolzaripjonov&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
