@@ -14,10 +14,11 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres"/><br/>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,docker"/><br/>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,kali"/>
+  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres,nodejs,vue,tailwind,ts"/><br/>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,docker,spring,maven"/><br/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,kali,notion,jira,figma"/>
 </p>
+
 
 
 ---
