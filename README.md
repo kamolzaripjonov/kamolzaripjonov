@@ -14,10 +14,17 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres,nodejs,vue,tailwind,ts,spring,maven"/><br/>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,notion,jira,figma,docker"/><br/>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,kali,arch"/>
+  <!-- 1-qator: Asosiy skillar -->
+  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres,nodejs,vue,tailwind,ts"/><br/>
+
+  <!-- 2-qator: Tools & Backend -->
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,docker,spring,maven"/><br/>
+
+  <!-- 3-qator: IDE & OS & Productivity -->
+  <img src="https://skillicons.dev/icons?i=idea,vscode,kali,arch,notion,figma"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="jira" width="40" height="40"/>
 </p>
+
 
 
 
