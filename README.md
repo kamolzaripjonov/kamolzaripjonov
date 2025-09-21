@@ -14,9 +14,9 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres,nodejs,vue,tailwind,ts"/><br/>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,docker,spring,maven"/><br/>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,kali,notion,jira,figma"/>
+  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres,nodejs,vue,tailwind,ts,spring,maven"/><br/>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,notion,jira,figma,docker"/><br/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,kali,arch"/>
 </p>
 
 
