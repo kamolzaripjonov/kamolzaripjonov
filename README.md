@@ -22,8 +22,9 @@
 
   <!-- 3-qator: IDE & OS & Productivity -->
   <img src="https://skillicons.dev/icons?i=idea,vscode,kali,arch,notion,figma"/>
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="jira" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="jira" width="40" height="40" style="margin-left:6px;"/>
 </p>
+
 
 
 
