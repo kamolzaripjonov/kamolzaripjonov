@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kamol Zaripjonov</h1>
-<h3 align="center">Java Backend Developer | Full Stack Developer</h3>
+<h3 align="center">Java Backend Full Stack Developer</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently **Project Manager at Need Code Company**
+- 🔭 Currently **Created at Unify Company**
 - 🌱 Learning **Full Stack Development (Java + React/Vite)**
 - 💬 Ask me about **Java, Spring Boot, React, Databases**
 - 📫 Reach me at **kamolzarifjonov777@gmail.com**
@@ -14,10 +14,11 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres"/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap"/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,kali,vscode,idea,postman"/>
+  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres"/><br/>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,docker"/><br/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,kali"/>
 </p>
+
 
 ---
 
