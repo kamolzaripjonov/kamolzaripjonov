@@ -14,13 +14,8 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <!-- 1-qator: Asosiy skillar -->
-  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres,nodejs,vue,tailwind,ts"/><br/>
-
-  <!-- 2-qator: Tools & Backend -->
+  <img src="https://skillicons.dev/icons?i=java,react,vite,postgres,nodejs,vue,tailwind,js,ts"/><br/>
   <img src="https://skillicons.dev/icons?i=github,gitlab,postman,git,docker,spring,maven"/><br/>
-
-  <!-- 3-qator: IDE & OS & Productivity -->
   <img src="https://skillicons.dev/icons?i=idea,vscode,kali,notion,jira,figma"/>
 </p>
 
